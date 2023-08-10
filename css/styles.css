@@ -93,3 +93,19 @@ a:hover {
 a:active {
     color: darkgray;
 }
+
+.icons-social i:link, :link {
+    color: white;
+}
+
+.icons-social i:visited, a:visited {
+    color: white;
+}
+
+.icons-social i:hover, a:hover {
+    color: grey;
+}
+
+.icons-social i:active, a:active {
+    color: darkgray;
+}
